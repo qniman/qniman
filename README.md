@@ -1,4 +1,6 @@
-# Привет, я qniman! <img src="https://komarev.com/ghpvc/?username=qniman&style=flat-square&color=orange" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=qniman&style=flat-square&color=orange" alt=""/>
+
+# Привет, я qniman!
 
 Добро пожаловать на мой GitHub! Здесь я храню свои дерьмо-проекты
 
