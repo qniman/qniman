@@ -1,4 +1,4 @@
-# Привет, я qniman!
+# Привет, я qniman! <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 
 Добро пожаловать на мой GitHub! Здесь я храню свои дерьмо-проекты
 
