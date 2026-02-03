@@ -1,36 +1,110 @@
-# Привет, я qniman!
-Добро пожаловать на мой GitHub! Здесь я храню свои дерьмо-проекты
+<div align="center">
 
-## Обо мне
+# 👋 Привет! Я qniman
 
-- Мастер CTRL-C + CTRL-V.
-- Студент
-- Люблю код (нет).
-- official roblox | minecraft player
+[![](https://img.shields.io/badge/-⭐%20Welcome%20to%20my%20profile-000?style=flat)](https://github.com/qniman)
 
-## Моя статистика GitHub
+Разработчик | Студент | Гейм-плеер
 
-![Статистика](https://github-readme-stats.vercel.app/api?username=qniman&show_icons=true&theme=radical)
-
-*"Я не ленивый"*
-
-## Что знаю?
-<img src=https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=javascript></img>
-
-## Чем пользуюсь?
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="PyCharm" alt="" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="IntelliJ" alt="" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/datagrip/datagrip-original.svg" title="DataGrip" alt="" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/rider/rider-original.svg" title="Rider" alt="" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="Docker" alt="" width="40" height="40"/>&nbsp;
 </div>
 
-## Какие ОС?
+---
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" title="Arch Linux" alt="" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" title="Windows" alt="" width="40" height="40"/>&nbsp;
+## 🎯 Обо мне
+
+<table>
+<tr>
+<td width="50%">
+
+- 💻 Мастер оптимизации кода
+- 📚 Постоянно учусь и развиваюсь
+- 🎮 Поклонник Roblox и Minecraft
+- 🚀 Увлечён созданием проектов
+- 🔧 Люблю экспериментировать с новыми технологиями
+
+</td>
+<td width="50%">
+
+```python
+profile = {
+    "name": "qniman",
+    "role": "Developer",
+    "passion": "Coding & Gaming",
+    "status": "Always learning"
+}
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 Статистика GitHub
+
+<div align="center">
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=qniman&show_icons=true&theme=radical&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qniman&layout=compact&theme=radical&hide_border=true)
+
+</div>
+
+---
+
+## 🛠️ Технологический стек
+
+### 💻 IDE и Редакторы
+
+<div align="center">
+
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![DataGrip](https://img.shields.io/badge/DataGrip-000000?style=for-the-badge&logo=datagrip&logoColor=white)
+![Rider](https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=rider&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
+
+### 🖥️ Операционные системы
+
+<div align="center">
+
+![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+
+</div>
+
+### 🚀 Языки программирования
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+</div>
+
+---
+
+## 📬 Свяжитесь со мной
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/qniman)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/qniman)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/qniman)
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Спасибо за внимание к моему профилю!
+
+*"Код - это искусство, которое работает"*
+
 </div>
