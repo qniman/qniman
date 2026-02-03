@@ -1,8 +1,4 @@
-<img src="https://komarev.com/ghpvc/?username=qniman&style=flat-square&color=orange" alt=""/>
-<img src="https://github-readme-stats.vercel.app/api?username=qniman&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="qniman's GitHub Stats" />
-
 # Привет, я qniman!
-
 Добро пожаловать на мой GitHub! Здесь я храню свои дерьмо-проекты
 
 ## Обо мне
@@ -20,13 +16,7 @@
 
 ## Что знаю?
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Java" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="Java" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS" alt="Java" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="Java" width="40" height="40"/>&nbsp
+  ![Static Badge](https://img.shields.io/badge/PHP-purple)
 </div>
 
 ## Чем пользуюсь?
