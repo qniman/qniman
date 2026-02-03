@@ -1,4 +1,5 @@
 <img src="https://komarev.com/ghpvc/?username=qniman&style=flat-square&color=orange" alt=""/>
+<img src="https://github-readme-stats.vercel.app/api?username=qniman&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="qniman's GitHub Stats" />
 
 # Привет, я qniman!
 
