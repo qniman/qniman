@@ -15,7 +15,7 @@
 *"Я не ленивый"*
 
 ## Что знаю?
-![Static Badge](https://img.shields.io/badge/PHP-purple)
+<img src=https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=javascript></img>
 
 ## Чем пользуюсь?
 
